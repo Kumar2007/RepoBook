@@ -20,7 +20,10 @@ pip install -r requirements.txt
 ## Usage
 
  Add repos with sections
+
+
 python repobook.py add https://github.com/psf/requests --fetch --tags python http --section Networking
+
 python repobook.py add https://github.com/torvalds/linux --tags os kernel --section OperatingSystems
 
  List
