@@ -13,7 +13,9 @@ RepoBook is a simple, interactive CLI tool that lets you manage GitHub repositor
 ## 📦 Installation
 
 git clone https://github.com/yourusername/repobook.git
+
 cd repobook
+
 pip install -r requirements.txt
 
 
